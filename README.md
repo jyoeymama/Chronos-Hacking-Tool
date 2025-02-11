@@ -63,3 +63,27 @@ Edit
 This tool is designed for educational purposes and ethical security testing only. Misusing it for illegal activities is strictly prohibited. The developer is not responsible for any misuse. Always obtain proper authorization before testing security systems.
 
 🔹 Use this tool responsibly and legally. 🚀
+
+
+HOW TO INSTALL:
+
+🔧 Installation
+1️⃣ Download and Setup
+Save the script as chronos.sh:
+
+bash
+Copy
+Edit
+nano chronos.sh
+Paste the script inside and save it.
+
+2️⃣ Give Execution Permission
+bash
+Copy
+Edit
+chmod +x chronos.sh
+3️⃣ Run Chronos
+bash
+Copy
+Edit
+./chronos.sh --help
